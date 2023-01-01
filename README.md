@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  <br> Thank You for taking the time to view my Github profile! </h2><br>
+<h2> Hi There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  <br> Thank you for taking the time to view my Github profile! </h2><br>
 
 <a href="https://www.linkedin.com/in/naqeeb-ahmed-7ba469128" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
