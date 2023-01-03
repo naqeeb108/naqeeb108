@@ -20,7 +20,7 @@
 - Talks about Swift, SwiftUI, Data Structures and Algorithms and operating systems
 - Love solving coding challenges
 - Currently learning Blockchain Development by Self
-- Personal website [link](https://www.google.com)
+- Personal website [link](https://www.naqeeb-ahmed.com)
 
 <br>
   
