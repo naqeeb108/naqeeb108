@@ -20,10 +20,10 @@
 
 <br>
 
-- A passionate iOS Developer with 4 plus years of experience 
+- A passionate iOS Developer with 5+ years of experience 
 - Talks about Swift, SwiftUI, Data Structures and Algorithms and operating systems
 - Love solving coding challenges
-- Interested in learning Backend and Blockchain Development
+- Interested in learning Backend Development
 - Personal website [link](https://www.naqeeb-ahmed.com)
 
 <br>
