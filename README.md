@@ -12,6 +12,10 @@
 <a href="https://stackoverflow.com/users/6737277/naqeeb" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stack overflow style="margin-bottom: 5px;" />
 </a>
+
+<a href="mailto:ahmed.naqeeb108@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
+</a>
 <br>
   
 <div align="left">
